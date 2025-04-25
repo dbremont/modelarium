@@ -13,7 +13,7 @@
 
 **CSM (Computational Social Systems):** Análisis cuantitativo de comportamientos sociales, métricas e interacciones usando métodos computacionales 👥.
 
-- **CBA (Computational Business Analytics):** Uso de herramientas computacionales para analizar datos de negocios e informar la toma de decisiones 📊.
+**CBA (Computational Business Analytics):** Uso de herramientas computacionales para analizar datos de negocios e informar la toma de decisiones 📊.
 
 **MF (Maestro Fisicia):** Aplicación de métodos computacionales para resolver y analizar sistemas y fenómenos físicos ⚛️.
 
